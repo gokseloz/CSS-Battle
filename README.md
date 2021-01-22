@@ -6,4 +6,4 @@ CSS Battle is a concept where people can use there CSS skills to climb in the le
 
 | Challenge                 | Difficulty |
 | ------------------------- | :--------: |
-| [#1 - Simply Square](zdz) |    Easy    |
+| [#1 - Simply Square](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%231%20-%20Simply%20Square.md) |    Easy    |
