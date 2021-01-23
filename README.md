@@ -4,11 +4,11 @@ CSS Battle is a concept where people can use there CSS skills to climb in the le
 
 ### Difficulty Score
 
-## Battle 1 - Pilot Battle
-
 <span style="color: lightgreen"><b>Easy</b></span> : No help needed.<br>
 <span style="color: orange"><b>Medium</b></span> : Minor help from the internet. <br>
 <span style="color: red"><b>Hard</b></span> : A lot of help from the internet.
+
+## Battle 1 - Pilot Battle
 
 | Challenge                                                                                                                                      |                     Difficulty                     |
 | ---------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: |
