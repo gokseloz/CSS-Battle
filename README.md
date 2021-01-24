@@ -10,17 +10,17 @@ CSS Battle is a concept where people can use there CSS skills to climb in the le
 
 ## Battle 1 - Pilot Battle
 
-| Challenge                                                                                                                                             |                     Difficulty                     |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------: |
-| [#1 - Simply Square](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%231%20-%20Simply%20Square.md)        | <span style="color: lightgreen"><b>Easy</b></span> |
-| [#2 - Carrom](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%232%20-%20Carrom.md)                        | <span style="color: lightgreen"><b>Easy</b></span> |
-| [#3 - Push Button](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%233%20-%20Push%20Button.md)            | <span style="color: lightgreen"><b>Easy</b></span> |
-| [#4 - Ups n Downs](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%234%20-%20Ups%20n%20Downs.md)          |  <span style="color: orange"><b>Medium</b></span>  |
-| [#5 - Acid Rain](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%235%20-%20Acid%20Rain.md)                |  <span style="color: orange"><b>Medium</b></span>  |
-| [#6 - Missing Slice](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%236%20-%20Missing%20Slice.md)        | <span style="color: lightgreen"><b>Easy</b></span> |
-| [#7 - Leafy Trail](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%237%20-%20Leafy%20Trail.md)            |  <span style="color: orange"><b>Medium</b></span>  |
-| [#8 - Forking Crazy](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%238%20-%20Forking%20Crazy.md)        |    <span style="color: red"><b>Hard</b></span>     |
-| [#9 - Tesseract](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%239%20-%20Tesseract.md)                  | <span style="color: lightgreen"><b>Easy</b></span> |
-| [#10 - Cloaked Spirits](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%239%20-%20Cloaked%20Spirits.md)   |  <span style="color: orange"><b>Medium</b></span>  |
-| [#11 - Eye of Shauron](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%239%20-%20Eye%20of%20Shauron.md)   |    <span style="color: red"><b>Hard</b></span>     |
-| [#12 - Wiggly Moustache](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%239%20-%20Wiggly%20Moustache.md) |    <span style="color: red"><b>Hard</b></span>     |
+| Challenge                                                                                                                                              |                     Difficulty                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------: |
+| [#1 - Simply Square](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%231%20-%20Simply%20Square.md)         | <span style="color: lightgreen"><b>Easy</b></span> |
+| [#2 - Carrom](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%232%20-%20Carrom.md)                         | <span style="color: lightgreen"><b>Easy</b></span> |
+| [#3 - Push Button](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%233%20-%20Push%20Button.md)             | <span style="color: lightgreen"><b>Easy</b></span> |
+| [#4 - Ups n Downs](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%234%20-%20Ups%20n%20Downs.md)           |  <span style="color: orange"><b>Medium</b></span>  |
+| [#5 - Acid Rain](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%235%20-%20Acid%20Rain.md)                 |  <span style="color: orange"><b>Medium</b></span>  |
+| [#6 - Missing Slice](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%236%20-%20Missing%20Slice.md)         | <span style="color: lightgreen"><b>Easy</b></span> |
+| [#7 - Leafy Trail](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%237%20-%20Leafy%20Trail.md)             |  <span style="color: orange"><b>Medium</b></span>  |
+| [#8 - Forking Crazy](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%238%20-%20Forking%20Crazy.md)         |    <span style="color: red"><b>Hard</b></span>     |
+| [#9 - Tesseract](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%239%20-%20Tesseract.md)                   | <span style="color: lightgreen"><b>Easy</b></span> |
+| [#10 - Cloaked Spirits](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%2310%20-%20Cloaked%20Spirits.md)   |  <span style="color: orange"><b>Medium</b></span>  |
+| [#11 - Eye of Shauron](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%2311%20-%20Eye%20of%20Shauron.md)   |    <span style="color: red"><b>Hard</b></span>     |
+| [#12 - Wiggly Moustache](https://github.com/yorickcleerbout/CSS-Battle/blob/main/Battle%20%231%20-%20Pilot%20Battle/%2312%20-%20Wiggly%20Moustache.md) |    <span style="color: red"><b>Hard</b></span>     |
